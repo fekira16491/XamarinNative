@@ -1,0 +1,19 @@
+﻿<resources>
+ <style name="AppTheme" parent="AppTheme.Base">
+ 
+        </style>
+
+     <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+      
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowActionModeOverlay">false</item>
+
+        <item name="android:windowBackground">@null</item>
+
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+        </style>
+
+</resources>

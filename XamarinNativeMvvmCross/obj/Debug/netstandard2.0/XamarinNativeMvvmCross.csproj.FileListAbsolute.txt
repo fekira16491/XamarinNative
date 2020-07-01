@@ -1,0 +1,9 @@
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/bin/Debug/netstandard2.0/XamarinNativeMvvmCross.deps.json
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/bin/Debug/netstandard2.0/XamarinNativeMvvmCross.dll
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/bin/Debug/netstandard2.0/XamarinNativeMvvmCross.pdb
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/obj/Debug/netstandard2.0/XamarinNativeMvvmCross.csprojAssemblyReference.cache
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/obj/Debug/netstandard2.0/XamarinNativeMvvmCross.csproj.CoreCompileInputs.cache
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/obj/Debug/netstandard2.0/XamarinNativeMvvmCross.AssemblyInfoInputs.cache
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/obj/Debug/netstandard2.0/XamarinNativeMvvmCross.AssemblyInfo.cs
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/obj/Debug/netstandard2.0/XamarinNativeMvvmCross.dll
+/Users/680214/Documents/Mobile Projects/Xamarin Native/XamarinNativeMvvmCross/XamarinNativeMvvmCross/obj/Debug/netstandard2.0/XamarinNativeMvvmCross.pdb
